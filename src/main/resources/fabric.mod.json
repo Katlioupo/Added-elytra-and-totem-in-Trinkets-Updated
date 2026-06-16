@@ -3,9 +3,13 @@
 	"id": "my-trinket-slots",
 	"version": "${version}",
 	"name": "My Trinket Slots",
-	"description": "Adds elytra and totem trinket slots.",
-	"authors": ["YourName"],
-	"contact": {},
+	"description": "为 Trinkets Updated 添加鞘翅和不死图腾的独立饰品槽位",
+	"authors": ["Katlioupo"],
+	"contact": {
+		"homepage": "",
+		"issues": "https://github.com/Katlioupo/Added-elytra-and-totem-in-Trinkets-Updated/issues",
+		"sources": "https://github.com/Katlioupo/Added-elytra-and-totem-in-Trinkets-Updated"
+	},
 	"license": "MIT",
 	"environment": "*",
 	"entrypoints": {
