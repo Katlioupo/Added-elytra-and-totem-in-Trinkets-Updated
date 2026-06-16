@@ -1,0 +1,6 @@
+{
+  "icon": "trinkets:container/slots/cape",
+  "validator_predicates": ["trinkets:tag"],
+  "quick_move_predicates": ["trinkets:tag"],
+  "tooltip_predicates": ["trinkets:tag"]
+}

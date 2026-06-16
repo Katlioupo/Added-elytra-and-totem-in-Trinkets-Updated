@@ -1,0 +1,21 @@
+{
+	"schemaVersion": 1,
+	"id": "my-trinket-slots",
+	"version": "${version}",
+	"name": "My Trinket Slots",
+	"description": "Adds elytra and totem trinket slots.",
+	"authors": ["YourName"],
+	"contact": {},
+	"license": "MIT",
+	"environment": "*",
+	"entrypoints": {
+		"main": ["com.yourname.mytrinketslots.MyTrinketSlots"]
+	},
+	"depends": {
+		"fabricloader": ">=0.14",
+		"minecraft": "~26.1.2",
+		"java": ">=25",
+		"fabric-api": "*",
+		"trinkets": ">=4.0.0-beta.2"
+	}
+}
